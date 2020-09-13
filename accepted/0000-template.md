@@ -1,4 +1,6 @@
-# {{TITLE: Rolls/RFC!}}
+{{TITLE: a human-readable title for this RFC!}}
+
+Rolls
 
 ## Summary
 
